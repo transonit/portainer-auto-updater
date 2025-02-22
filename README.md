@@ -14,7 +14,7 @@ This script automates the process of stopping, removing, and restarting Portaine
 1. **Download the script**
 
    ```bash
-   wget https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO/main/setup_autoupdate.sh
+   wget https://raw.githubusercontent.com/transonit/portainer-auto-updater/main/setup_autoupdate.sh
    ```
 
 2. **Give execution permission**
