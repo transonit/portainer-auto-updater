@@ -43,7 +43,7 @@ This script automates the process of stopping, removing, and restarting Portaine
 
 ## 🔄 How It Works
 
-- The script creates `/root/autoupdate_portainer.sh` with commands to restart Portainer.
+- The script creates `/root/autoupdate_portainer.sh` with commands to auto update Portainer.
 - It makes the script executable.
 - It adds a cron job for root to run the script every Sunday at 4:20 AM.
 - If the cron job already exists, it won’t be added again.
@@ -70,5 +70,5 @@ This script is open-source. Feel free to modify and use it as needed!
 
 ---
 
-**Author:** YOUR\_NAME
+**Author:** Son Tran
 
